@@ -1,0 +1,7 @@
+{
+  "name": "Apex Horizon 3D Driving Simulator",
+  "description": "High-fidelity 3D driving simulator with realistic vehicle physics, dynamic suspension, drift mechanics, day-night cycles, and diverse missions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
